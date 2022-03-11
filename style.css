@@ -1,9 +1,16 @@
-body{
-	font-family:'monospace'
+body {
+    font-family: 'monospace';
+    text-align: center;
 }
-.font-primary{
-	color:aqua;
-	font-size: 24px;
-	
-	
+
+.font-primary {
+    color: aqua;
+    font-size: 24px;
+}
+
+body.bi bi-github {
+    margin-right: 240px;
+}
+
+nav {
 }
